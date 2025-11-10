@@ -9,7 +9,7 @@
   <rect width="100%" height="100%" rx="12" fill="url(#grad1)"/>
   <g transform="translate(48,56)" font-family="Helvetica, Arial, sans-serif" fill="#fff">
     <text x="0" y="58" font-size="48" font-weight="700">Hi — I'm <tspan style="letter-spacing:0.6px">CodedBryt</tspan></text>
-    <text x="0" y="102" font-size="18" font-weight="600" opacity="0.95">Intern • AI/ML & Web Dev • Rapper at heart</text>
+    <text x="0" y="102" font-size="18" font-weight="600" opacity="0.95">Intern • AI/ML,  Web Dev • Rapper at heart</text>
     <text x="0" y="132" font-size="14" opacity="0.9">Blending creativity through tech, sound, and innovation</text>
   </g>
 
