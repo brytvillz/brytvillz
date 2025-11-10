@@ -41,7 +41,7 @@ From studio sessions to VS Code, I believe both art and tech are about **buildin
 
 ### 📫 Connect With Me
 - 🐦 [Twitter (X)](https://x.com/brytvillz_rapz)  
-- 💼 [LinkedIn]([your-link-here](https://www.linkedin.com/in/codedbryt-ezeribe-6b257b390))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/codedbryt-ezeribe-6b257b390)  
 - 🌐 [Portfolio/Website (coming soon)](#)  
 
 ---
