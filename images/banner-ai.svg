@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="340" viewBox="0 0 1400 340" role="img" aria-labelledby="t3">
+  <title id="t3">CodedBryt — AI circuitry banner</title>
+  <defs>
+    <linearGradient id="ga" x1="0" x2="1">
+      <stop offset="0" stop-color="#06b6d4"/>
+      <stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="100%" height="100%" fill="#070814"/>
+
+  <!-- circuit lines -->
+  <g stroke="#2dd4bf" stroke-opacity="0.18" stroke-width="2" fill="none">
+    <path d="M60 280 L60 200 L140 200 L140 120 L220 120 L220 60 L400 60" />
+    <path d="M340 280 L340 220 L420 220 L420 160 L520 160" />
+    <path d="M820 280 L820 180 L920 180 L920 120" />
+    <circle cx="520" cy="120" r="6" fill="#2dd4bf" opacity="0.22"/>
+    <circle cx="920" cy="120" r="6" fill="#8b5cf6" opacity="0.22"/>
+  </g>
+
+  <!-- central glowing chip -->
+  <g transform="translate(820,40)">
+    <rect x="0" y="0" width="380" height="260" rx="16" fill="url(#ga)" opacity="0.18"/>
+    <rect x="22" y="22" width="336" height="216" rx="10" fill="#0b1220" stroke="#111827" stroke-opacity="0.6"/>
+    <text x="38" y="72" font-family="Inter, Arial" font-size="36" font-weight="700" fill="#fff">CodedBryt</text>
+    <text x="38" y="110" font-family="Inter, Arial" font-size="14" fill="#c7d2fe" opacity="0.95">Intern • AI/ML • Web Dev</text>
+  </g>
+
+  <!-- left bold mark -->
+  <g transform="translate(72,62)">
+    <circle cx="0" cy="0" r="56" fill="#7c3aed" opacity="0.95"/>
+    <text x="-4" y="8" font-family="Inter" font-size="24" font-weight="800" fill="#fff">CB</text>
+  </g>
+
+  <text x="72" y="318" font-family="Inter" font-size="12" fill="#9ca3af">Open to remote roles • Projects: Web Dev, Prompt Lab, AI Concepts</text>
+</svg>
