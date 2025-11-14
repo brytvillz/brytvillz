@@ -1,27 +1,42 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="titleDesc">
-  <title id="titleDesc">CodedBryt banner — clean</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="t1">
+  <title id="t1">CodedBryt — visual banner</title>
   <defs>
-    <linearGradient id="grad1" x1="0" x2="1">
-      <stop offset="0" stop-color="#0ea5e9"/>
-      <stop offset="1" stop-color="#7c3aed"/>
+    <linearGradient id="gv" x1="0" x2="1">
+      <stop offset="0" stop-color="#ff6b6b"/>
+      <stop offset="0.5" stop-color="#ffd166"/>
+      <stop offset="1" stop-color="#06b6d4"/>
     </linearGradient>
+    <filter id="soft" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="36" result="b"/>
+      <feBlend in="SourceGraphic" in2="b"/>
+    </filter>
   </defs>
-  <rect width="100%" height="100%" rx="12" fill="url(#grad1)"/>
-  <g transform="translate(48,56)" font-family="Helvetica, Arial, sans-serif" fill="#fff">
-    <text x="0" y="58" font-size="48" font-weight="700">Hi — I'm <tspan style="letter-spacing:0.6px">CodedBryt</tspan></text>
-    <text x="0" y="102" font-size="18" font-weight="600" opacity="0.95">Intern • AI/ML  Web Dev • Rapper at heart</text>
-    <text x="0" y="132" font-size="14" opacity="0.9">Blending creativity through tech, sound, and innovation</text>
+
+  <!-- background -->
+  <rect width="100%" height="100%" fill="#0b1020"/>
+
+  <!-- colorful soft blobs -->
+  <g filter="url(#soft)" opacity="0.95">
+    <ellipse cx="220" cy="160" rx="260" ry="120" fill="url(#gv)"/>
+    <ellipse cx="640" cy="60" rx="220" ry="90" fill="#7c3aed" opacity="0.9"/>
+    <ellipse cx="980" cy="200" rx="200" ry="110" fill="#06b6d4" opacity="0.85"/>
   </g>
 
-  <!-- callout pills -->
-  <g transform="translate(780,56)">
-    <rect x="0" y="0" rx="8" ry="8" width="360" height="52" fill="rgba(255,255,255,0.12)" />
-    <text x="16" y="34" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#fff">Learning: HTML • CSS • JS • Prompt Engineering</text>
+  <!-- subtle grid texture -->
+  <g opacity="0.06" fill="#fff">
+    <rect x="40" y="40" width="1120" height="240" rx="12" stroke="#fff" stroke-opacity="0.02" fill="none"/>
   </g>
 
-  <!-- subtle pattern -->
-  <g opacity="0.08" fill="#000">
-    <circle cx="1000" cy="220" r="80"/>
-    <circle cx="1100" cy="70" r="40"/>
+  <!-- minimal label -->
+  <g transform="translate(60,68)" font-family="Inter, Arial, sans-serif" fill="#fff">
+    <text x="0" y="28" font-size="20" font-weight="600" opacity="0.95">Hi — I'm</text>
+    <text x="0" y="74" font-size="56" font-weight="800" letter-spacing="-0.6">CodedBryt</text>
+    <text x="0" y="106" font-size="14" opacity="0.9">Intern · AI/ML  Web Dev · Rapper at heart</text>
+  </g>
+
+  <!-- decorative rounded panel (visual focus) -->
+  <g transform="translate(720,36)">
+    <rect x="0" y="0" width="360" height="240" rx="20" fill="#0f172a" opacity="0.7"/>
+    <rect x="18" y="18" width="324" height="204" rx="12" fill="url(#gv)" opacity="0.28"/>
   </g>
 </svg>
