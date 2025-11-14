@@ -1,8 +1,7 @@
 # 👋 Hi, I'm **CodedBryt**
 
-<p align="center">
-  <img src="./images/banner-clean.svg" alt="Banner: CodedBryt — intern learning AI/ML & web development" width="100%" />
-</p>
+<p align="center"><img src="./images/banner-wave.svg" alt="CodedBryt banner" width="100%" /></p>
+
   
 </p>💻 **Intern learning AI/ML & Web Development**  
 🎤 **Rapper at heart — from bars to codes**  
