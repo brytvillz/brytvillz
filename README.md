@@ -10,7 +10,7 @@
 ---
 
 ### 🧠 About Me
-- 🎯 Currently an intern (Week 7) learning **HTML, CSS, JavaScript, and Prompt Engineering**  
+- 🎯 Currently an intern (Week 11) learning **HTML, CSS, JavaScript, and Prompt Engineering**  
 - 🤖 Exploring **AI & Machine Learning fundamentals** and **Generative AI tools**  
 - 🎓 Certified in *Career Essentials in Generative AI* and *Generative AI Productivity Skills* (Microsoft + LinkedIn)  
 - 🌍 Open to **remote roles** and **collaboration opportunities**  
