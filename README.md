@@ -54,8 +54,8 @@ We focus on building practical products and improving with every iteration.
 ---
 
 ## 📫 Let’s Connect
-- X (Twitter): https://x.com/yourhandle  
-- LinkedIn: https://linkedin.com/in/yourprofile  
+- X (Twitter): https://x.com/brytvillz_rapz
+- LinkedIn: linkedin.com/in/codedbryt-ezeribe-6b257b390
 
 Open to roles, collaborations, and meaningful projects.
 
