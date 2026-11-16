@@ -2,35 +2,42 @@
 
 <p align="center"><img src="./images/banner-wave.svg" alt="CodedBryt banner" width="100%" /></p>
 
-Frontend Developer building clean, responsive, and problem-solving web experiences — with a growing focus on AI-enhanced products.
+Full-stack developer. I build and ship production web systems end to end: storefronts, staff dashboards, database design, deployment.
+
+Director at Ngwangwa Digital Systems Ltd (RC 9791913), Nnewi, Nigeria.
 
 ---
 
 ## 🧠 What I Do
-- Build responsive websites using **HTML, CSS, and JavaScript**
-- Translate UI/UX designs into functional web products
-- Collaborate with designers, analysts, and teams to ship products
-- Explore **AI-powered solutions** and automation for real-world use cases
+I'm building
+Sonne Solutions
+
+A live commercial e-commerce and inventory platform for a solar and security company. A public catalogue of 104 products across 19 brands and 8 categories, plus a staff dashboard on its own subdomain for stock, sales and price records.
+
+Next.js 16 React 19 TypeScript Tailwind CSS v4 Supabase PostgreSQL Vercel
+
+→ sonnesolutionsng.com
+
+Virtual Waitress
+
+Table ordering for bars and restaurants. Customers order from the table, orders route to bar and kitchen staff.
+
+Next.js TypeScript Supabase
 
 ---
 
 ## 🛠 Tech Stack
-**Frontend:**  
-HTML • CSS • JavaScript  
-
-**Tools & Workflow:**  
-Git • GitHub • VS Code • Responsive Design • Web Performance Optimization  
-
-**AI / Emerging Skills:**  
-Prompt Engineering • AI-assisted workflows *(actively expanding)*
+Languages TypeScript · JavaScript · SQL · HTML · CSS Frameworks Next.js · React · Node.js · Tailwind CSS Data PostgreSQL · Supabase · schema design · versioned migrations · Row Level Security Practice automated testing · custom lint and static checks · performance budgeting · WCAG accessibility · Git · Vercel
 
 ---
 
-## 🚀 Projects
-Here are some things I’ve built or am currently working on:
-- Business websites for real-world use cases  
-- Product-focused frontend builds  
-- Team-based projects from internships and programs  
+## 🚀 How I work
+
+Performance as a budget, not an afterthought. Held a home page load event at 236 KB across fourteen feature releases, enforcing it on every change.
+Automated checks over good intentions. When the same class of defect appeared twice, I wrote a lint rule so it could not appear a third time: migration checksums, design-token enforcement, empty-section detection.
+Accessibility measured, not assumed. Zero axe violations across 20 page and viewport combinations; colour contrast verified against rendered pixels rather than declared tokens.
+Correctness in the details. Money stored and computed as integer minor units. Dates resolved explicitly in Africa/Lagos rather than left to the server.
+Stack
 
 👉 Check out my pinned repositories below.
 
@@ -53,12 +60,19 @@ We focus on building practical products and improving with every iteration.
 
 ---
 
-## 📫 Let’s Connect
-- X (Twitter): https://x.com/brytvillz_rapz
-- LinkedIn: linkedin.com/in/codedbryt-ezeribe-6b257b390
+Background
 
-Open to roles, collaborations, and meaningful projects.
+Cohort trained with 3MTT (software development, AI and machine learning, product management) and Genesis Tech Hub (web development). Led a team build during the cohort programme.
 
+Reach me
+
+LinkedIn · codedbryt@gmail.com
+
+<sub>Bars • Code • AI — blending sound and systems</sub>
 ---
 
 > *Build websites. Solve problems. Ship products.*
+
+
+
+
