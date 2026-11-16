@@ -66,7 +66,7 @@ Cohort trained with 3MTT (software development, AI and machine learning, product
 
 Reach me
 
-LinkedIn · codedbryt@gmail.com
+LinkedIn · linkedin.com/in/codedbryt
 
 <sub>Bars • Code • AI — blending sound and systems</sub>
 ---
